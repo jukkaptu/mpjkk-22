@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [login build](https://users.metropolia.fi/~jukkaptu/React-tehtavat/login_buildi/) git s to view it in your browser.
+Open [profile build](https://users.metropolia.fi/~jukkaptu/React-tehtavat/profile_buildi/) git s to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
