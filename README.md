@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [mui build](https://users.metropolia.fi/~jukkaptu/React-tehtavat/mui_buildi/) git s to view it in your browser.
+Open [forms build](https://users.metropolia.fi/~jukkaptu/React-tehtavat/forms_buildi/) git s to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
